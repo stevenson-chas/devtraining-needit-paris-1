@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_help_content">
+    <sys_embedded_help_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <content><![CDATA[<p>ADMIN TITLE</p>
+<p><a title="A LINK TO SOMETHING" href="https://www.gocomics.com/mycomics/1299469" target="_self">A LINK TO SOMETHING</a></p>
+<div class="related-links role-embedded_help_admin tm-element">
+<div class="relinfo">
+<div class="reltitle">Related information<br />
+<div>RELATED LIST?</div>
+<div>LINE 2</div>
+</div>
+</div>
+</div>
+<p>ASFAF</p>
+<p>ASDF</p>]]></content>
+        <last_sync/>
+        <modifier>normal</modifier>
+        <name>Neetit List - Admin</name>
+        <page>x_58872_needit_needit_list</page>
+        <product>1</product>
+        <qualifier/>
+        <role display_value="x_58872_needit.admin" name="x_58872_needit.admin">168e57609f213200bde5f79ff57fcfb4</role>
+        <role_order>10</role_order>
+        <snc_created>false</snc_created>
+        <sys_class_name>sys_embedded_help_content</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-15 17:24:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d83240af2f72201035f7578b2799b626</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Neetit List - Admin</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_embedded_help_content_d83240af2f72201035f7578b2799b626</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-15 21:34:31</sys_updated_on>
+        <version>p</version>
+    </sys_embedded_help_content>
+    <sys_translated_text action="delete_multiple" query="documentkey=d83240af2f72201035f7578b2799b626"/>
+</record_update>

@@ -7,6 +7,7 @@
         <auto_gen>false</auto_gen>
         <category/>
         <cond_question>always</cond_question>
+        <condition/>
         <correct_answer/>
         <correct_answer_checkbox>1</correct_answer_checkbox>
         <correct_answer_choice>52df8f5bdb1033407520f5861d96196f</correct_answer_choice>
@@ -22,6 +23,7 @@
         <displayed_when_template/>
         <displayed_when_yesno/>
         <duration/>
+        <field_validation/>
         <mandatory>true</mandatory>
         <max>0</max>
         <max_weight/>
